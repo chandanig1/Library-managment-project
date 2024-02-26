@@ -1,0 +1,15 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" id="GridView1" style="border-collapse:collapse;">
+		<tr style="font-weight:bold;">
+			<th scope="col">Id</th><th scope="col">Bookname</th><th scope="col">Authorname</th><th scope="col">purchasedate</th><th scope="col">quantity</th><th scope="col">price</th>
+		</tr><tr>
+			<td>1</td><td>java</td><td>Herbert Schildt</td><td>Dec 28 2023 12:00AM</td><td>1</td><td>400</td>
+		</tr><tr>
+			<td>2</td><td>c/c++</td><td>Bjarne Stroustrup</td><td>Dec 28 2023 12:00AM</td><td>1</td><td>550</td>
+		</tr><tr>
+			<td>3</td><td>.NET</td><td>Ruskin Bond</td><td>Jan 16 2024 12:00AM</td><td>1</td><td>488</td>
+		</tr><tr>
+			<td>4</td><td>.NET</td><td>Ruskin Bond</td><td>Jan 16 2024 12:00AM</td><td>1</td><td>488</td>
+		</tr>
+	</table>
+</div>
